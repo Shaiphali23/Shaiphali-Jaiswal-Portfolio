@@ -50,7 +50,7 @@ const PORTFOLIO_DATA = {
 
     profileImage: "/profile.png",
 
-    resume: "/resume.pdf",
+    resume: "/Shaiphali_Jais_Resume.pdf",
 
     phone: "+91 7355510203",
 
